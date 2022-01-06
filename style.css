@@ -3,9 +3,9 @@ body{
     margin:0;
 }
 .side-border{
-    border-left:10px solid;
-    border-image:linear-gradient(blue, cyan);
-    border-image-slice:20 5 20 5;
+    border-left:3px solid;
+    border-image:linear-gradient(orange, tomato);
+    border-image-slice:1;
 }
 .half-width{
     width:50%;
@@ -95,6 +95,11 @@ body{
 }
 .last{
     text-align: center;
+    background-color: black;
+    color:white;
+}
+.dwon{
+    margin: 50px;
 }
 
 
